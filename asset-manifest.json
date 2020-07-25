@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FirstCalculator/static/css/main.489b9038.chunk.css",
+    "main.js": "/FirstCalculator/static/js/main.755f014d.chunk.js",
+    "main.js.map": "/FirstCalculator/static/js/main.755f014d.chunk.js.map",
+    "runtime~main.js": "/FirstCalculator/static/js/runtime~main.e27a893c.js",
+    "runtime~main.js.map": "/FirstCalculator/static/js/runtime~main.e27a893c.js.map",
+    "static/js/2.eb1c8e8f.chunk.js": "/FirstCalculator/static/js/2.eb1c8e8f.chunk.js",
+    "static/js/2.eb1c8e8f.chunk.js.map": "/FirstCalculator/static/js/2.eb1c8e8f.chunk.js.map",
+    "index.html": "/FirstCalculator/index.html",
+    "precache-manifest.0208c5dddb0590cbf4c43bce73747f45.js": "/FirstCalculator/precache-manifest.0208c5dddb0590cbf4c43bce73747f45.js",
+    "service-worker.js": "/FirstCalculator/service-worker.js",
+    "static/css/main.489b9038.chunk.css.map": "/FirstCalculator/static/css/main.489b9038.chunk.css.map",
+    "static/media/styles.css": "/FirstCalculator/static/media/RobotoMono-Thin.7cb58857.ttf"
+  }
+}
