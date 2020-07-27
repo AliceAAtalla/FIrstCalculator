@@ -39,6 +39,6 @@ There, you can now access the application from the route http://localhost:3000/
 ---
 
 ### Developer: 
-|Name        |Email                  |ReceiveCertificate|Course                                         |
+|Name        |Email                  |Certificate       |Course                                         |
 | ---------- | --------------------- | ---------------- |---------------------------------------------- |
 |Alice Atalla|aliceatalla36@gmail.com|false             |https://www.udemy.com/share/101qNEBUIadlhRTHw=/|
